@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeeeqichen&layout=compact)](https://github.com/gengyanlei/github-readme-stats)
 
-![Qichen's github stats](https://github-readme-stats.vercel.app/api?username=yeeeqichen&show_icons=true&hide_border=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yeeeqichen)]()
