@@ -30,5 +30,4 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=yeeeqichen&theme=flat" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" /> -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=yeeeqichen&theme=flat" alt="logo" height="120" align="center" />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeeeqichen&layout=compact)](https://github.com/gengyanlei/github-readme-stats)
