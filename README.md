@@ -28,5 +28,7 @@ Here are some ideas to get you started:
 - ❤  Program language: Python C++ JavaScript 
 - 🔭 Labtory: Advanced Data & Signal Processing (ADSP@PKUSZ)
 
-<img src="https://github-profile-trophy.vercel.app/?username=yeeeqichen&theme=flat" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=yeeeqichen&theme=flat" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" /> -->
+
+<img src="https://github-profile-trophy.vercel.app/?username=yeeeqichen&theme=flat" alt="logo" height="120" align="center" />
 
