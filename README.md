@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=yeeeqichen&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<ung src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yeeeqichen&&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 ## Hi, this is Qichen 👋
 - 🎓 PKU(master's degree)
